@@ -1,5 +1,5 @@
 # website-night
-Temp project for creating websites with friends
+Base project for creating websites with friends
 
 # References
 * https://www.javatpoint.com/html-tags
